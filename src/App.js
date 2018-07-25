@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
-import { initApi } from "./api";
+import { initApi } from "./api/contentful";
 
 class App extends Component {
   constructor(props) {
